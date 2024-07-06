@@ -1,52 +1,41 @@
-Bijay Ghosh  +91-8910619522
-Roll No.: 10271022036 # bijayghoshofficial@gmail.com
-Masters of Computer Application § bijayofficial
-Kalyani Government Engineering College ï Bijay Ghosh
-Ready to sync my technical flair with a passionate team, turning innovative ideas into tangible triumphs.
-TRAINING AND INTERNSHIPS
-• Ardent Computech PVT. LTD 02/2021 - 08/2021
-ML Training & Intern Kolkata, India
-– Completed ML test evaluation with a score above 90%
-Implemented Virtual Mouse using Python and ML
-– Earned internship and training certification
-• Out of The Box Solutions 05/2021 - 07/2021
-Web Development Intern New Delhi, India
-– Implemented content optimization techniques for gemajr.com resulting in a 25%
-increase in organic search traffic and a 15% boost in conversion rates within 3 months.
-– Contributed to website development and user data screening
-Education
-•Kalyani Government Engineering College, Nadia 2022-24
-Master of Computer Application CGPA: 8.65
-•Future Institute of Engineering and Management, Kolkata 2019-2022
-Bachelor of Computer Application CGPA: 9.41
-•12th Science, Panchasayar Siksha Niketan(H.S.), Kolkata 2019
-West Bengal Council of Higher Secondary Education Percentage: 68
-•10th Panchasayar Siksha Niketan(H.S.), Kolkata 2017
-West Bengal Board of Secondary Education Percentage: 88
-Technical Skills and Interests
-Languages: Core Java, Python, JavaScript
-Web Development Tools: JavaScript, HTML, CSS, React, Node.js
-Databases: MySQL, MongoDB, Oracle SQL
-Technologies: RDBMS, DSA, Git, Tailwind-CSS, Machine Learning
-Soft Skills: Communication, Teamwork, Decision-making, Enthusiastic
-Personal Projects
-• Leveraging Few-Shot Learning for Test Answer Evaluation and Accuracy Calculation
-Developing a model that utilizes few-shot learning techniques to test answers and calculate accuracy with minimal labeled data.
-– Tools & technologies used: Python
-– Developed and implemented an innovative NLP model using few-shot learning algorithms, revolutionizing test
-answer evaluation in educational assessment; achieved a remarkable 79% increase in accuracy, transforming the
-evaluation process.
-• Online Voting System Project
-Creating a online voting platform to facilitate transparent and secure voting system, that can generate voting report and make.
-– Tools & technologies used: HTML, CSS, PHP, BootStrap, MySQL
-– Developed a streamlined Voting Management System tailored for college elections and small-scale events, incorporating secure authentication protocols, real-time monitoring capabilities, versatile voting mechanisms, and
-automated tallying for enhanced efficiency
-• Tinder Clone Website
-Implemented user profiles, matching algorithms, and messaging functionality.
-– Tools & technologies used: HTML, CSS, JavaScript
-– Designed and developed a social media web application aimed at fostering connections and delivering an optimal
-user experience.
-Certifications
-• DataScience AI and Development - IBM(Coursera) 2023
-• JAVA Development - EMAX-INDIA 2022
-• Python Development - EMAX-INDIA 2019
+### Hi there 👋, my name is Bijay Ghosh
+#### Welcome to my Github profile! I'm deeply enthusiastic about the world of web development, with a focus on both frontend and backend technologies.
+![Welcome to my Github profile! I'm deeply enthusiastic about the world of web development, with a focus on both frontend and backend technologies.](https://media.licdn.com/dms/image/D4D16AQEUutQSb34gaA/profile-displaybackgroundimage-shrink_350_1400/0/1694787289391?e=1725494400&v=beta&t=sKVKbNBuy9GsCh1_gnnT1gnV-MbrxjtszDfRFnM0WH4)
+
+🌐 My Skill Set Includes:
+
+Front-End Technology: HTML, CSS, JavaScript, and React JS - the tools to create captivating user interfaces.
+
+Back-End Languages: I'm proficient in Node JS, Express JS, and Java, empowering me to build robust server-side solutions.
+
+Database: I have experience with managing data using MySQL and harnessing the potential of NoSQL databases like MongoDB.
+
+💡 My Journey: My journey isn't just about writing code; it's about transforming concepts into reality, designing seamless user experiences, and nurturing the tech leaders of tomorrow.
+
+🔗 Let's Connect: Whether you're interested in discussing the latest trends in web development, collaborating on exciting projects, or sharing insights on education, I'm eager to connect with like-minded professionals.
+
+Feel free to reach out, and let's embark on a journey of growth, innovation, and knowledge sharing together.
+
+Skills: REACT / JS / HTML / CSS / Node JS / TailwindCSS / Express.js
+
+- 🔭 I’m currently working on MERN stack 
+- 🌱 I’m currently learning Backend Basics 
+- 👯 I’m looking to collaborate on Middleware  
+- 💬 Ask me about JAVA < REACTJS < PYTHON 
+- 📫 How to reach me: https://www.linkedin.com/in/bijay-ghosh-70b368191/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bijayofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bijay-ghosh-70b368191/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bijay_ghosh_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/BijayGh95349845)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/bijayrancho)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/bijay-ghosh)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijayofficial)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bijayofficial&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/bijayofficial/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/bijayofficial)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bijayofficial)  
+
