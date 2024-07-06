@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm BIJAY GHOSH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">🚀 Passionate about Frontend, Backend, and Full Stack Development 🚀
+
+Welcome to my LinkedIn profile! I'm deeply enthusiastic about the world of web development, with a focus on both frontend and backend technologies.
+
+🌐 My Skill Set Includes:
+
+Front-End Technology: HTML, CSS, JavaScript, and React JS - the tools to create captivating user interfaces.
+
+Back-End Languages: I'm proficient in Node JS, Express JS, and Java, empowering me to build robust server-side solutions.
+
+Database: I have experience with managing data using MySQL and harnessing the potential of NoSQL databases like MongoDB.
+
+💡 My Journey: My journey isn't just about writing code; it's about transforming concepts into reality, designing seamless user experiences, and nurturing the tech leaders of tomorrow.
+
+🔗 Let's Connect: Whether you're interested in discussing the latest trends in web development, collaborating on exciting projects, or sharing insights on education, I'm eager to connect with like-minded professionals.
+
+Feel free to reach out, and let's embark on a journey of growth, innovation, and knowledge sharing together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijayofficial&label=Profile%20views&color=0e75b6&style=flat" alt="bijayofficial" /> </p>
 
