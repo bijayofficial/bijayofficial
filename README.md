@@ -1,3 +1,5 @@
+<img href="https://media.licdn.com/dms/image/D4D16AQEUutQSb34gaA/profile-displaybackgroundimage-shrink_350_1400/0/1694787289391?e=1725494400&v=beta&t=sKVKbNBuy9GsCh1_gnnT1gnV-MbrxjtszDfRFnM0WH4">
+
 <h1 align="center">Hi 👋, I'm BIJAY GHOSH</h1>
 <h3 align="center">🚀 Passionate about Frontend, Backend, and Full Stack Development 🚀
 
